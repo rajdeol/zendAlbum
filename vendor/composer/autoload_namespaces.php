@@ -10,6 +10,7 @@ return array(
     'ZendTest\\' => array($vendorDir . '/zendframework/zendframework/tests'),
     'ZendService' => array($vendorDir . '/zendframework/zendservice-recaptcha/library'),
     'ZendPdf\\' => array($vendorDir . '/zendframework/zendpdf/library'),
+    'ZFTool\\' => array($vendorDir . '/zendframework/zftool/src'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
     'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/lib'),
     'Doctrine\\Common\\Inflector\\' => array($vendorDir . '/doctrine/inflector/lib'),
