@@ -12,6 +12,8 @@
         "zendframework/zendframework": ">2.1.3",
         "doctrine/common": "dev-master",
         "zendframework/zendpdf": "2.*",
-        "zendframework/zendservice-recaptcha": "2.*"
+        "zendframework/zendservice-recaptcha": "2.*",
+        "phpunit/phpunit": "3.*",
+        "zendframework/zftool": "dev-master"
     }
 }
